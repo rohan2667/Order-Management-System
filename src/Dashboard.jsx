@@ -97,7 +97,8 @@ const Dashboard = ({ isSidebarCollapsed }) => {
                             <Tooltip />
                             <Line 
                                 type="monotone" 
-                                dataKey="极revenue" 
+                                dataKey="revenue" 
+
                                 stroke="#8884d8" 
                                 strokeWidth={2}
                             />
